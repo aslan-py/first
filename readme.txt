@@ -1,0 +1,12 @@
+colorama==0.4.6
+flake8==7.1.2
+flake8-isort==6.1.2
+iniconfig==2.0.0
+isort==6.0.1
+mccabe==0.7.0
+packaging==24.2
+pep8-naming==0.14.1
+pluggy==1.5.0
+pycodestyle==2.12.1
+pyflakes==3.2.0
+pytest==8.3.5
